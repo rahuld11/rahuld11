@@ -5,7 +5,7 @@
 
 - 🔭 I am Currently working as Associate Data Scientist
 - 🌱 I’m currently learning **I’m currently learning recent trends in machine learning and AI space** 
-- 👯 I’m collaborator in keras, tensorflow and looking for more collaboration.
+- 👯 I’m collaborator in Keras, Tensorflow and looking for more collaboration.
 - 🌱 Sharpening my Deep Learning skill set Focused on NLP & Deep Learning 
 - ⚡ Fun fact: I love to Learn.
 
